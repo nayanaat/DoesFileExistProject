@@ -12,7 +12,7 @@ public class TestScriptsLibrary extends ProjectFunctionLibrary {
 	public static void connectToWW() throws IOException, InterruptedException{
 		
 		
-		startReport("Login","/Users/hathaval/eclipse-workspace/AAExampleFramework/Report/");
+		startReport("Login","/Users/YourProject/eclipse-workspace/AAExampleFramework/Report/");
 		mainDriver.driver = new ChromeDriver();
 		mainDriver.driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		mainDriver.driver.manage().window().maximize();

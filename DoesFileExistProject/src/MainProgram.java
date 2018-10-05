@@ -4,7 +4,7 @@ import java.util.SortedSet;
 
 public class MainProgram {
 	
-    static String filePathString = new String("/Users/hathaval/Documents/Personal-1/SampleFile.txt");
+    static String filePathString = new String("/Users/YourFolder/Documents/SomeFile.txt");
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

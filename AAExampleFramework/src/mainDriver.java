@@ -14,7 +14,7 @@ public class mainDriver {
 		// TODO Auto-generated method stub
 
 
-		System.setProperty("webdriver.chrome.driver", "/Users/hathaval/eclipse-workspace/AAExampleFramework/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/YourFolder/eclipse-workspace/AAExampleFramework/chromedriver");
 		driver = new ChromeDriver();
 
 
